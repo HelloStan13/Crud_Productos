@@ -1,4 +1,4 @@
-# Crud_Productos
+# Crud_Productos Angular, NodeJs Api, Mongo DB
 
 ## Tecnologias
 - Angular
